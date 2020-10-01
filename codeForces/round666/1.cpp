@@ -1,7 +1,7 @@
 /*
 Sayak Das
 */
-#include <iostream>
+#include <bits/stdc++.h>
 #include<stdio.h>
 using namespace std;
 void count_alb(int* arr,char c);
